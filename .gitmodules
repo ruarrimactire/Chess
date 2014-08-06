@@ -1,0 +1,3 @@
+[submodule "agile-java-exercise"]
+	path = src
+	url = git://github.com/christofdamian/agile-java-exercises
